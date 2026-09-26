@@ -16,7 +16,7 @@ Setelah belajar dasar *serverless* minggu lalu, kali ini kita akan belajar tenta
 ## 📋 Materi Tugas
 Semua instruksi langkah-demi-langkah dan tugas praktikum dapat ditemukan di file berikut:
 
-👉 **[Buka Tugas Praktikum: Task-CC-Database.md]([./Task-CC-Database.md](https://github.com/Rasyidpit/CC-CM-Task3-DynamoDB/blob/main/Task-CC-Database.md))**
+👉 **[Buka Tugas Praktikum: Task-CC-Database.md]([https://github.com/Rasyidpit/CC-CM-Task3-DynamoDB/blob/main/Task-CC-Database.md))**
 
 ---
 
